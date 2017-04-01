@@ -1,5 +1,7 @@
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/core-routing.svg)](https://greenkeeper.io/)
+
 ## Introduction ##
 
 *Path finder* is a routing library inspired by URL Route/Dispatch utilities present on frameworks like:
